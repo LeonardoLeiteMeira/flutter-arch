@@ -1,6 +1,9 @@
 # arquiteturas_flutter
 
-A new Flutter project.
+This project is to study different mobile architectures
+- MVC
+- MVP
+- MVVM
 
 ## Getting Started
 
